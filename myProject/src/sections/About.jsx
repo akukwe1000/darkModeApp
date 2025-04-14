@@ -33,7 +33,7 @@ const About = () => {
             <h1 data-aos='zoom-in' className='text-red-500 dark:text-white text-4xl'>Who We Are</h1>
             <h1 data-aos='zoom-in' data-aos-delay='200' className='text-black text-[40px] font-semibold leading-10 dark:text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, nihil!</h1>
 
-            <p data-aos="zoom-in" data-aos-delay="200" className='text-gray-500 text-[20px] font-semibold '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis vero, aut velit pariatur sed temporibus repellat suscipit illum beatae enim alias reiciendis, ad nulla numquam.
+            <p data-aos="zoom-in" data-aos-delay="200" className='text-gray-500 text-[20px] font-semibold '> Akukwe favour chudubame a full time missionary currently serving in uyo 
             </p>
 
             <div className="w-full">

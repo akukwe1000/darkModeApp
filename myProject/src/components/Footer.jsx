@@ -26,7 +26,7 @@ const {darkMode, toggleDarkMode} = useDarkMode();
     <footer className={`${darkMode ? 'dark bg-black' : 'light bg-gray-800'} w-full m-auto lg:px-20 px-10 py-20 grid lg:grid-cols-3 grid-cols-1 justify-center items-start lg:gap-20 gap-10`}>
       <div className='flex flex-col justify-center items-start gap-5 '>
         <h1 className='text-white text-2xl font-semibold'>About Us</h1>
-        <p className='text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis laboriosam, magni dolor cum ullam, deserunt ea nulla aliquam qui natus in. Quisquam maxime assumenda odit dolorem tempore temporibus cupiditate distinctio.</p>
+        <p className='text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis laboriosam, magni dolor cum ullam, deserunt ea nulla aliquam qui natus in. Quisquam maxime assumenda odit dolorem tempore temporibus cupiditate distinctio. <br /> Akukwe favour chudubame a full time missionary currently serving in uyo </p>
         <div id='social-icon' className='flex justify-start items-center gap-4 mt-4'>
           <div className='p-3 rounded-xl bg-white hover:bg-red-600 hover:text-white cursor-pointer transform hover:scale-110 transition-transform'>
             <FaFacebookF className='size-5'/>
